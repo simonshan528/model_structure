@@ -1,4 +1,4 @@
-there is an example:
+there is an example of TimeSformer:
 
     with the params as below:
         img_size: 128                          # Image size
